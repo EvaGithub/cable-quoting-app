@@ -1,0 +1,22 @@
+hourly_rate_per_plant:
+  6110_HS: 95
+  6320_PL: 55
+  6400_DE: 70
+  2500_US: 80
+  4600_ML: 50
+  6600_UK: 85
+
+exchange_rates:
+  CHF: 1.0
+  EUR: 0.98
+  USD: 1.11
+
+min_straight_len_default_mm: 100
+
+default_straight_segments_mm:
+  SR_086: { LOL: 10, LEL: 15 }
+  SR_141: { LOL: 12, LEL: 17 }
+
+number_bending_CNC: 4
+quantity_assemblies_CNC: 30
+
